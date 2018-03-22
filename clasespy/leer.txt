@@ -1,0 +1,7 @@
+prueba creacion de objetos y librerias
+
+en camion y auto se crean dos objetos con funciones propias
+en libreria se crea funcion especifica
+en llamada esta la invocacion a las clases y funciones
+
+notar diferencia entre llamadas self dentro de las funciones. como varia llamada a objeto vs solo funcion
