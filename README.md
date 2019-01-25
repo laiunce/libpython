@@ -1,2 +1,5 @@
 # libpython
-test librerias y funciones
+
+Dummy
+
+basic structure object programming with python
